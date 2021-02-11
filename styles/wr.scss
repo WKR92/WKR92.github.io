@@ -744,12 +744,12 @@
 
 @media only screen and (max-width: 480px) {
     body {
-        width: 100vw;
+        width: auto;
         zoom: 0.6;
     }
     .title {
         zoom: 0.5;
-        width: 100vw;
+        width: auto;
         margin: auto;
         margin-bottom: 100px;
         flex-direction: column;
@@ -789,7 +789,7 @@
             width: 400px;
             // margin-left: -250px;
             margin-right: 0px;
-            color: red;
+            color: blue;
         }
     
         .article__section-two {
@@ -835,8 +835,8 @@
     
                 .img-container__description {
                     font-size: 16px;
-                    margin-left: -300px;
-                    margin-right: 20px;
+                    margin-left: -280px;
+                    margin-right: 50px;
                 }
     
             }

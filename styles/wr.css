@@ -624,12 +624,12 @@
 
 @media only screen and (max-width: 480px) {
   body {
-    width: 100vw;
+    width: auto;
     zoom: 0.6;
   }
   .title {
     zoom: 0.5;
-    width: 100vw;
+    width: auto;
     margin: auto;
     margin-bottom: 100px;
     flex-direction: column;
@@ -658,7 +658,7 @@
     margin-bottom: 500px;
     width: 400px;
     margin-right: 0px;
-    color: red;
+    color: blue;
   }
   .article .article__section-two {
     width: 400px;
@@ -693,8 +693,8 @@
   }
   .article .article__section-four .section-four__img-container .img-container__description {
     font-size: 16px;
-    margin-left: -300px;
-    margin-right: 20px;
+    margin-left: -280px;
+    margin-right: 50px;
   }
   .article .article__section-four .section-four__wiktor-programista-container {
     margin-left: 0px;
