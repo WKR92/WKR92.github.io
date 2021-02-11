@@ -1,4 +1,3 @@
-console.log(window.screen.width);
 var images = [];
 
 images[0] = "./Zdjecia do stronki/lustro1.jpg"
