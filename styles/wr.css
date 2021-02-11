@@ -64,7 +64,7 @@
 
 .title .title__image-container .image-container__ja {
   height: 768px;
-  width: 700px;
+  width: auto;
   margin-top: 0px;
   margin-bottom: 0px;
 }
@@ -157,7 +157,7 @@
 
 .article .article__section-four .section-four__img-container .img-container__img-ja2 {
   border-radius: 10px;
-  width: 420px;
+  width: auto;
   height: 600px;
   margin-right: 38px;
   margin-top: 90px;
@@ -518,7 +518,7 @@
     margin-top: 0px;
     zoom: 0.8;
     margin-left: -210px;
-    width: 400px;
+    width: auto;
   }
   .article .article__section-four .section-four__img-container .img-container__description {
     font-size: 16px;
@@ -687,7 +687,7 @@
     margin-top: 100px;
     zoom: 0.8;
     margin-left: -300px;
-    width: 400px;
+    width: auto;
     margin-right: 0px;
   }
   .article .article__section-four .section-four__img-container .img-container__description {
