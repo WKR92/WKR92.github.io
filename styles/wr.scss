@@ -782,12 +782,13 @@
     .article {
         width: 0px;
         // margin: auto;
-        margin-left: 250px;
+        margin-left: 400px;
+
         .article__section-one {
             margin-bottom: 500px;
             width: 400px;
             // margin-left: -250px;
-            margin-right: 400px;
+            margin-right: 0px;
         }
     
         .article__section-two {
