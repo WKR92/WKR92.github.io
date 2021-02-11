@@ -653,6 +653,7 @@
   .article {
     width: 0px;
     margin: auto;
+    margin-left: 150px;
   }
   .article .article__section-one {
     margin-bottom: 450px;
@@ -692,7 +693,7 @@
   }
   .article .article__section-four .section-four__img-container .img-container__description {
     font-size: 16px;
-    margin-left: -100px;
+    margin-left: 0px;
     margin-right: 50px;
   }
   .article .article__section-four .section-four__wiktor-programista-container {
@@ -708,7 +709,7 @@
   .slider-container {
     zoom: 0.5;
     width: 650px;
-    margin-top: 1000px;
+    margin-top: 900px;
   }
   .slider-container .slider-container__lists {
     margin-right: -10px;
