@@ -1,13 +1,13 @@
 console.log(window.screen.width);
 var images = [];
 
-images[0] = "./Zdjećie do stronki/lustro.jpg"
-images[2] = "./Zdjećie do stronki/indiana_jones.jpg"
-images[5] = "./Zdjećie do stronki/podwórko.jpg"
-images[4] = "./Zdjećie do stronki/para_roku.jpg"
-images[3] = "./Zdjećie do stronki/rowery.jpg"
-images[1] = "./Zdjećie do stronki/fryzura.jpg"
-images[6] = "./Zdjećie do stronki/incepcja.jpg"
+images[0] = "./Zdjecia do stronki/lustro.jpg"
+images[2] = "./Zdjecia do stronki/indiana_jones.jpg"
+images[5] = "./Zdjecia do stronki/podwórko.jpg"
+images[4] = "./Zdjecia do stronki/para_roku.jpg"
+images[3] = "./Zdjecia do stronki/rowery.jpg"
+images[1] = "./Zdjecia do stronki/fryzura.jpg"
+images[6] = "./Zdjecia do stronki/incepcja.jpg"
 
 
 
