@@ -741,3 +741,196 @@
         zoom: 0.8;
     }
 }
+
+@media only screen and (max-width: 480px) {
+    body {
+        width: auto;
+        zoom: 0.6;
+    }
+    .title {
+        zoom: 0.6;
+        width: auto;
+        margin: auto;
+        margin-bottom: 100px;
+        flex-direction: column;
+        margin-top: -200px;
+
+        .title__headline-container {
+            margin: auto;
+            margin-top: 90px;
+
+            .headline-container__sub-title {
+                font-size: 30px;
+                margin-bottom: 20px;
+            }
+        }
+    
+        .title__image-container {
+            margin: auto;
+            margin-top: 20px;
+    
+            .image-container__text {
+                font-size: 20px;
+            }
+    
+            
+        }
+
+        
+    }
+
+    .article {
+        margin: auto;
+        width: 0px;
+        margin: auto;
+    
+        .article__section-one {
+            margin-bottom: 350px;
+            width: 350px;
+            margin-left: -250px;
+        }
+    
+        .article__section-two {
+            width: 350px;
+            margin-left: -250px;
+    
+            .section-two__q-text {
+                font-size: 38px;
+            }
+    
+            .section-two__q-person {
+                font-size: 18px;
+                margin-bottom: 50px;
+            }
+        }
+    
+        .article__section-three {
+            margin-bottom: -40px;
+            width: 350px;
+            margin-left: -250px;
+        }
+    
+        .article__section-four {
+            display: flex;
+            flex-direction: column;
+            margin: auto;
+            margin-bottom: 550px;
+            width: 350px;
+    
+            .section-four__img-container {
+                
+    
+                .img-container__img-ja2 {
+                    margin: auto;
+                    margin-top: 0px;
+                    zoom: 0.8;
+                    margin-left: -210px;
+                    width: 350px;
+                }
+    
+                .img-container__description {
+                    font-size: 16px;
+                    margin-left: -250px;
+                }
+    
+            }
+    
+            .section-four__wiktor-programista-container {    
+                margin-left: 0px;
+                width: 350px;
+                margin-left: -250px;
+    
+                .wiktor-programista__title {
+                    margin-top: 100px;
+                    margin-bottom: 50px;
+                }
+            }
+        }
+    }
+
+    .slider-container {
+        width: 650px;
+        margin-top: 600px;
+    
+        .slider-container__lists {
+            margin-right: -10px;
+    
+            .lists__dates {
+                margin-left: -30px;
+                margin-top: 0px;
+    
+                .date-btn-1, .date-btn-2, .date-btn-3, .date-btn-4, .date-btn-5, .date-btn-6, .date-btn-7 {
+                    font-size: 14px;
+                }
+            }
+
+            .lists__signs {
+                margin-top: 0px;
+            }
+
+    
+        }
+    
+        .slider-container__slider {
+    
+            .slider__key-events {
+                margin-left: -80px;
+                margin-bottom: 20px;
+    
+    
+                .key-events__arrows {
+                    margin-left: 50px;
+                }
+    
+            }
+    
+            .slider__pictures-container {
+    
+                #pic {
+                    zoom: 0.8;
+                    margin-left: 0px;
+                }
+    
+                .pictures-container__history-box {
+                    zoom: 0.9;
+                    margin-top: 290px;
+                    margin-left: -230px;
+    
+    
+                    .history-box__title {
+                        font-size: 26px;
+                    }
+    
+                    .history-box__text {
+                        font-size: 16px;
+                    }
+    
+                }
+    
+            }
+        
+            .slider__pic-decription {
+                font-size: 14px;
+                margin-top: -155px;
+                margin-left: 0px;
+                
+            }
+        
+            .slider__elipses {
+                margin-top: 50px;
+                margin-left: 0px;
+                margin-bottom: 40px;
+            }
+    
+        }
+        
+    }
+
+    .footer {
+        width: 400px;
+    
+        .footer__text {
+            font-size: 16px;
+        } 
+    }
+}
