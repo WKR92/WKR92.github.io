@@ -657,7 +657,7 @@
   .article .article__section-one {
     margin-bottom: 550px;
     width: 400px;
-    margin-right: 150px;
+    margin-right: 250px;
   }
   .article .article__section-two {
     width: 400px;
@@ -706,7 +706,7 @@
     margin-bottom: 50px;
   }
   .slider-container {
-    zoom: 0.6;
+    zoom: 0.5;
     width: 650px;
     margin-top: 900px;
   }
