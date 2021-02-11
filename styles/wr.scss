@@ -520,6 +520,7 @@
         zoom: 0.7;
     }
     .title {
+        border: solid 1px red;
         zoom: 0.7;
         width: auto;
         margin: auto;
@@ -528,20 +529,24 @@
         margin-top: -200px;
 
         .title__headline-container {
+            border: solid 1px red;
             margin: auto;
             margin-top: 90px;
 
             .headline-container__sub-title {
+                border: solid 1px red;
                 font-size: 30px;
                 margin-bottom: 20px;
             }
         }
     
         .title__image-container {
+            border: solid 1px red;
             margin: auto;
             margin-top: 20px;
     
             .image-container__text {
+                border: solid 1px red;
                 font-size: 20px;
             }
     
@@ -552,47 +557,56 @@
     }
 
     .article {
+        border: solid 1px red;
         margin: auto;
         width: 0px;
         margin: auto;
     
         .article__section-one {
+            border: solid 1px red;
             margin-bottom: 350px;
             width: 500px;
             margin-left: -250px;
         }
     
         .article__section-two {
-            width: 500px;
+            border: solid 1px red;
+            width: 420px;
             margin-left: -250px;
     
             .section-two__q-text {
+                border: solid 1px red;
                 font-size: 38px;
             }
     
             .section-two__q-person {
+                border: solid 1px red;
                 font-size: 18px;
                 margin-bottom: 50px;
             }
         }
     
         .article__section-three {
+            border: solid 1px red;
             margin-bottom: -40px;
             width: 500px;
             margin-left: -250px;
         }
     
         .article__section-four {
+            border: solid 1px yellow;
             display: flex;
             flex-direction: column;
             margin: auto;
             margin-bottom: 550px;
-            width: 500px;
+            width: 0px;
     
             .section-four__img-container {
+                border: solid 1px red;
                 
     
                 .img-container__img-ja2 {
+                    border: solid 1px red;
                     margin: auto;
                     margin-top: 0px;
                     zoom: 0.8;
@@ -601,6 +615,7 @@
                 }
     
                 .img-container__description {
+                    border: solid 1px red;
                     font-size: 16px;
                     margin-left: -250px;
                 }
@@ -608,6 +623,7 @@
             }
     
             .section-four__wiktor-programista-container {    
+                border: solid 1px red;
                 margin-left: 0px;
                 width: 500px;
                 margin-left: -250px;
@@ -621,8 +637,9 @@
     }
 
     .slider-container {
-        width: 650px;
-        margin-top: 600px;
+        border: solid 1px red;
+        width: 570px;
+        margin-top: 50px;
     
         .slider-container__lists {
             margin-right: -10px;
@@ -666,7 +683,7 @@
                 .pictures-container__history-box {
                     zoom: 0.9;
                     margin-top: 290px;
-                    margin-left: -230px;
+                    margin-left: -240px;
     
     
                     .history-box__title {
@@ -792,7 +809,7 @@
         }
     
         .article__section-two {
-            width: 400px;
+            width: 300px;
             // margin-left: -250px;
             margin-right: 50px;
     
@@ -818,7 +835,7 @@
             flex-direction: column;
             margin: auto;
             margin-bottom: 550px;
-            width: 400px;
+            width: 0px;
     
             .section-four__img-container {
                 
@@ -856,7 +873,7 @@
 
     .slider-container {
         zoom: 0.6;
-        width: 650px;
+        width: 600px;
         margin-top: 1000px;
     
         .slider-container__lists {
