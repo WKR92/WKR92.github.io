@@ -657,9 +657,11 @@
   .article .article__section-one {
     margin-bottom: 550px;
     width: 400px;
+    margin-right: 50px;
   }
   .article .article__section-two {
     width: 400px;
+    margin-right: 50px;
   }
   .article .article__section-two .section-two__q-text {
     font-size: 38px;
@@ -671,6 +673,7 @@
   .article .article__section-three {
     margin-bottom: -40px;
     width: 400px;
+    margin-right: 50px;
   }
   .article .article__section-four {
     display: flex;
@@ -685,15 +688,18 @@
     zoom: 0.8;
     margin-left: -210px;
     width: 400px;
+    margin-right: 50px;
   }
   .article .article__section-four .section-four__img-container .img-container__description {
     font-size: 16px;
     margin-left: -250px;
+    margin-right: 50px;
   }
   .article .article__section-four .section-four__wiktor-programista-container {
     margin-left: 0px;
     width: 400px;
     margin-left: -250px;
+    margin-right: 50px;
   }
   .article .article__section-four .section-four__wiktor-programista-container .wiktor-programista__title {
     margin-top: 100px;
@@ -754,5 +760,6 @@
   }
   .footer .footer__text {
     font-size: 16px;
+    padding-top: 0px;
   }
 }
