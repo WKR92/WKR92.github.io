@@ -140,7 +140,7 @@ function changeImg(){
             curBoxTitle.innerHTML = "Kambodża";
             curBoxText.innerHTML = "Zwiedziłem Tajlandię, Kamodżę i Wietnam jednocześnie ucząc się pisać kod w Pythonie. Tu jako Indiana Jones."
         } else if (i === 3){
-            curBoxTitle.innerHTML = "Witenam";
+            curBoxTitle.innerHTML = "Wietnam";
             curBoxText.innerHTML = "Widać, że coraz bardziej zaczynam przypominać programistę. Rośnie broda, śnią mi się funkcje, a w oczach odbija się kod."
         } else if (i === 4){
             curBoxTitle.innerHTML = "Tajlandia";
